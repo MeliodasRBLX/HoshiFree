@@ -9,4 +9,4 @@ if _k ~= nil then
     rawset(_G, "script_key", _k)
 end
 script_key = "Free_key"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MeliodasRBLX/HoshiFree/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MeliodasRBLX/HoshiFree/main/old.lua"))()
